@@ -1,0 +1,7 @@
+{
+    "GITHUB/PATH-TO-REPO": {
+        "path": "/local/path-to-github-repo",
+        "key": "MyVerySecretKey",
+        "action": [["git", "pull", "origin", "master"]]
+    }
+}
